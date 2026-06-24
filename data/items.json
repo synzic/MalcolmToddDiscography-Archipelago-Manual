@@ -1,0 +1,69 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "count": "9",
+      "name": "Progressive Sweet Boy",
+      "category": [
+        "Albums"
+      ],
+      "progression": true
+    },
+    {
+      "count": "9",
+      "name": "Progressive Malcolm Todd",
+      "category": [
+        "Albums"
+      ],
+      "progression": true
+    },
+    {
+      "count": "4",
+      "name": "Progressive Malcolm Todd (still)",
+      "category": [
+        "Albums"
+      ],
+      "progression": true
+    },
+    {
+      "count": "2",
+      "name": "Comfort Me Song Unlock",
+      "category": [
+        "Other"
+      ],
+      "progression": true
+    },
+    {
+      "count": "3",
+      "name": "Progressive Two New Malcolm Todd Songs",
+      "category": [
+        "EPs"
+      ],
+      "progression": true
+    },
+    {
+      "count": "8",
+      "name": "Progressive Shower Shoes",
+      "category": [
+        "EPs"
+      ],
+      "progression": true
+    },
+    {
+      "count": "8",
+      "name": "Progressive Demos Before Prom",
+      "category": [
+        "EPs"
+      ],
+      "progression": true
+    },
+    {
+      "count": "9",
+      "name": "Progressive Do That Again",
+      "category": [
+        "Albums"
+      ],
+      "progression": true
+    }
+  ]
+}

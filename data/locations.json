@@ -1,0 +1,454 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+  "data": [
+    {
+      "name": "Earrings",
+      "category": [
+        "Sweet Boy"
+      ],
+      "requires": "|Progressive Sweet Boy|"
+    },
+    {
+      "name": "Roommates",
+      "category": [
+        "Sweet Boy"
+      ],
+      "requires": "|Progressive Sweet Boy|"
+    },
+    {
+      "name": "On My Shoulder",
+      "category": [
+        "Sweet Boy"
+      ],
+      "requires": "|Progressive Sweet Boy:1|"
+    },
+    {
+      "name": "Thailand",
+      "category": [
+        "Sweet Boy"
+      ],
+      "requires": "|Progressive Sweet Boy:1|"
+    },
+    {
+      "name": "Ladygirl",
+      "category": [
+        "Sweet Boy"
+      ],
+      "requires": "|Progressive Sweet Boy:2|"
+    },
+    {
+      "name": "Sweet Boy",
+      "category": [
+        "Sweet Boy"
+      ],
+      "requires": "|Progressive Sweet Boy:2|"
+    },
+    {
+      "name": "Rodrick Rules",
+      "category": [
+        "Sweet Boy"
+      ],
+      "requires": "|Progressive Sweet Boy:3|"
+    },
+    {
+      "name": "4Me 4Me",
+      "category": [
+        "Sweet Boy"
+      ],
+      "requires": "|Progressive Sweet Boy:3|"
+    },
+    {
+      "name": "Art House",
+      "category": [
+        "Sweet Boy"
+      ],
+      "requires": "|Progressive Sweet Boy:4|"
+    },
+    {
+      "name": "Sore Throat",
+      "category": [
+        "Sweet Boy"
+      ],
+      "requires": "|Progressive Sweet Boy:4|"
+    },
+    {
+      "name": "Rockstar Boyfriend",
+      "category": [
+        "Sweet Boy"
+      ],
+      "requires": "|Progressive Sweet Boy:5|"
+    },
+    {
+      "name": "New Friends",
+      "category": [
+        "Sweet Boy"
+      ],
+      "requires": "|Progressive Sweet Boy:5|"
+    },
+    {
+      "name": "Accutane",
+      "category": [
+        "Sweet Boy"
+      ],
+      "requires": "|Progressive Sweet Boy:6|"
+    },
+    {
+      "name": "Hot in NY",
+      "category": [
+        "Sweet Boy"
+      ],
+      "requires": "|Progressive Sweet Boy:6|"
+    },
+    {
+      "name": "Pillow",
+      "category": [
+        "Sweet Boy"
+      ],
+      "requires": "|Progressive Sweet Boy:7|"
+    },
+    {
+      "name": "Mr. Incorrect",
+      "category": [
+        "Sweet Boy"
+      ],
+      "requires": "|Progressive Sweet Boy:7|"
+    },
+    {
+      "name": "Harry Styles",
+      "category": [
+        "Malcolm Todd"
+      ],
+      "requires": "|Progressive Malcolm Todd|"
+    },
+    {
+      "name": "Make Me a Better Man",
+      "category": [
+        "Malcolm Todd"
+      ],
+      "requires": "|Progressive Malcolm Todd|"
+    },
+    {
+      "name": "Who's the Fool",
+      "category": [
+        "Malcolm Todd"
+      ],
+      "requires": "|Progressive Malcolm Todd:2|"
+    },
+    {
+      "name": "Chest Pain (I Love)",
+      "category": [
+        "Malcolm Todd"
+      ],
+      "requires": "|Progressive Malcolm Todd:2|"
+    },
+    {
+      "name": "Doll",
+      "category": [
+        "Malcolm Todd"
+      ],
+      "requires": "|Progressive Malcolm Todd:3|"
+    },
+    {
+      "name": "Bleed",
+      "category": [
+        "Malcolm Todd"
+      ],
+      "requires": "|Progressive Malcolm Todd:3|"
+    },
+    {
+      "name": "Good Job Malcolm",
+      "category": [
+        "Malcolm Todd"
+      ],
+      "requires": "|Progressive Malcolm Todd:4|"
+    },
+    {
+      "name": "Lying",
+      "category": [
+        "Malcolm Todd"
+      ],
+      "requires": "|Progressive Malcolm Todd:4|"
+    },
+    {
+      "category": [
+        "Malcolm Todd"
+      ],
+      "requires": "|Progressive Malcolm Todd:5|",
+      "name": "Walk to Class"
+    },
+    {
+      "name": "Florence",
+      "category": [
+        "Malcolm Todd"
+      ],
+      "requires": "|Progressive Malcolm Todd:5|"
+    },
+    {
+      "name": "I Do",
+      "category": [
+        "Malcolm Todd"
+      ],
+      "requires": "|Progressive Malcolm Todd:6|"
+    },
+    {
+      "name": "Cheer Me On",
+      "category": [
+        "Malcolm Todd"
+      ],
+      "requires": "|Progressive Malcolm Todd:6|"
+    },
+    {
+      "name": "I'll Come Back For You",
+      "category": [
+        "Malcolm Todd"
+      ],
+      "requires": "|Progressive Malcolm Todd:7|"
+    },
+    {
+      "name": "Attention",
+      "category": [
+        "Malcolm Todd",
+        "Malcolm Todd (still)"
+      ],
+      "requires": "|Progressive Malcolm Todd (still)| OR |Progressive Malcolm Todd:7|"
+    },
+    {
+      "name": "Nemo",
+      "category": [
+        "Malcolm Todd",
+        "Malcolm Todd (still)"
+      ],
+      "requires": "|Progressive Malcolm Todd (still)| OR |Progressive Malcolm Todd:7|"
+    },
+    {
+      "name": "Zip Up My Fly",
+      "category": [
+        "Malcolm Todd",
+        "Malcolm Todd (still)"
+      ],
+      "requires": "|Progressive Malcolm Todd (still):2| OR |Progressive Malcolm Todd:7|"
+    },
+    {
+      "name": "Original",
+      "category": [
+        "Malcolm Todd",
+        "Malcolm Todd (still)"
+      ],
+      "requires": "|Progressive Malcolm Todd (still):2| OR |Progressive Malcolm Todd:7|"
+    },
+    {
+      "name": "Jean Skirt",
+      "category": [
+        "Do That Again"
+      ],
+      "requires": "|Progressive Do That Again|"
+    },
+    {
+      "name": "Obsessica",
+      "category": [
+        "Do That Again"
+      ],
+      "requires": "|Progressive Do That Again|"
+    },
+    {
+      "name": "Free.99",
+      "category": [
+        "Do That Again"
+      ],
+      "requires": "|Progressive Do That Again:2|"
+    },
+    {
+      "name": "Breathe",
+      "category": [
+        "Do That Again"
+      ],
+      "requires": "|Progressive Do That Again:2|"
+    },
+    {
+      "name": "I Saw Your Face",
+      "category": [
+        "Do That Again"
+      ],
+      "requires": "|Progressive Do That Again:3|"
+    },
+    {
+      "name": "Difficult Love",
+      "category": [
+        "Do That Again"
+      ],
+      "requires": "|Progressive Do That Again:3|"
+    },
+    {
+      "name": "Malcolm In The Middle",
+      "category": [
+        "Do That Again"
+      ],
+      "requires": "|Progressive Do That Again:4|"
+    },
+    {
+      "name": "Ain't That The Truth",
+      "category": [
+        "Do That Again"
+      ],
+      "requires": "|Progressive Do That Again:4|"
+    },
+    {
+      "name": "Gun To My Head",
+      "category": [
+        "Do That Again"
+      ],
+      "requires": "|Progressive Do That Again:5|"
+    },
+    {
+      "name": "X's & O's",
+      "category": [
+        "Do That Again"
+      ],
+      "requires": "|Progressive Do That Again:5|"
+    },
+    {
+      "name": "Lonely Song",
+      "category": [
+        "Do That Again"
+      ],
+      "requires": "|Progressive Do That Again:6|"
+    },
+    {
+      "name": "Good Bye",
+      "category": [
+        "Do That Again"
+      ],
+      "requires": "|Progressive Do That Again:6|"
+    },
+    {
+      "name": "Do That Again",
+      "category": [
+        "Do That Again"
+      ],
+      "requires": "|Progressive Do That Again:7|"
+    },
+    {
+      "name": "Comfort Me",
+      "category": [
+        "Single"
+      ],
+      "requires": "|Comfort Me Song Unlock|"
+    },
+    {
+      "name": "You Owe Me",
+      "category": [
+        "Two New Malcolm Todd Songs"
+      ],
+      "requires": "|Progressive Two New Malcolm Todd Songs|"
+    },
+    {
+      "name": "Cute Shirt (Interlude)",
+      "category": [
+        "Two New Malcolm Todd Songs"
+      ],
+      "requires": "|Progressive Two New Malcolm Todd Songs:2|"
+    },
+    {
+      "name": "Lovebird",
+      "category": [
+        "Shower Shoes"
+      ],
+      "requires": "|Progressive Shower Shoes|"
+    },
+    {
+      "name": "Slowww",
+      "category": [
+        "Shower Shoes"
+      ],
+      "requires": "|Progressive Shower Shoes:2|"
+    },
+    {
+      "name": "What's Up",
+      "category": [
+        "Shower Shoes"
+      ],
+      "requires": "|Progressive Shower Shoes:3|"
+    },
+    {
+      "name": "Mac",
+      "category": [
+        "Shower Shoes"
+      ],
+      "requires": "|Progressive Shower Shoes:4|"
+    },
+    {
+      "name": "Intercourse",
+      "category": [
+        "Shower Shoes"
+      ],
+      "requires": "|Progressive Shower Shoes:5|"
+    },
+    {
+      "name": "So long",
+      "category": [
+        "Shower Shoes"
+      ],
+      "requires": "|Progressive Shower Shoes:6|"
+    },
+    {
+      "name": "Out of Bounds",
+      "category": [
+        "Demos Before Prom"
+      ],
+      "requires": "|Progressive Demos Before Prom|"
+    },
+    {
+      "name": "Hesitating",
+      "category": [
+        "Demos Before Prom"
+      ],
+      "requires": "|Progressive Demos Before Prom:2|"
+    },
+    {
+      "name": "Starstudded",
+      "category": [
+        "Demos Before Prom"
+      ],
+      "requires": "|Progressive Demos Before Prom:3|"
+    },
+    {
+      "name": "Phones",
+      "category": [
+        "Demos Before Prom"
+      ],
+      "requires": "|Progressive Demos Before Prom:4|"
+    },
+    {
+      "name": "Lately",
+      "category": [
+        "Demos Before Prom"
+      ],
+      "requires": "|Progressive Demos Before Prom:5|"
+    },
+    {
+      "name": "In a Trance",
+      "category": [
+        "Demos Before Prom"
+      ],
+      "requires": "|Progressive Demos Before Prom:6|"
+    },
+    {
+      "name": "Press Play",
+      "category": [
+        "STARTING LOCATION"
+      ],
+      "requires": "",
+      "place_item_category": [
+        "Albums"
+      ]
+    },
+    {
+      "name": "Discography Finished (GOAL)",
+      "victory": true,
+      "category": [
+        "GOAL"
+      ],
+      "requires": "|Progressive Sweet Boy:7| AND |Progressive Malcolm Todd:7| AND |Progressive Do That Again:7| AND |Comfort Me Song Unlock| AND |Progressive Two New Malcolm Todd Songs:2| AND |Progressive Shower Shoes:6| AND |Progressive Demos Before Prom:6|"
+    }
+  ]
+}
